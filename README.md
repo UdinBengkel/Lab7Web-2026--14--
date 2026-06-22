@@ -136,18 +136,18 @@ Berikut adalah bukti visual bahwa proses manipulasi data artikel (Tambah/Ubah/Ha
 
 #### Tambah
 
-![Screenshot 401](tambah.png)
+![Screenshot tambah](gambar/tambah.png)
 
-![Screenshot 401](setelahtambah.png)
+![Screenshot setelahtambah](gambar/setelahtambah.png)
 
 #### Edit
 
-![Screenshot 401](edit.png)
+![Screenshot edit](gambar/edit.png)
 
-![Screenshot 401](setelahedit.png)
+![Screenshot setelahedit](gambar/setelahedit.png)
 
 #### Hapus
 
-![Screenshot 401](hapus.png)
+![Screenshot hapus](gambar/hapus.png)
 
-![Screenshot 401](setelahhapus.png)
+![Screenshot setelahhapu](gambar/setelahhapus.png)
