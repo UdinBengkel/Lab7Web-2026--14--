@@ -138,7 +138,7 @@ Berikut adalah bukti visual bahwa proses manipulasi data artikel (Tambah/Ubah/Ha
 
 ![Screenshot tambah](gambar/tambah.png)
 
-![Screenshot setelahtambah](gambar/setelahtambah.png)
+![Screenshot setelahtambah](gambar/hasiltambah.png)
 
 #### Edit
 
